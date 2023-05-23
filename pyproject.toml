@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "simple_currency_cache"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.8,<4.0"
 diskcache = "^5.6.1"
 
 
