@@ -28,7 +28,7 @@ input_data = """
 date;currency;rate
 2024-07-01;USD;10.0
 2024-07-02;USD;10.1
-2024-07-03;USD;n/a
+2024-07-03;USD;N/A
 2024-07-04;USD;10.2
 """
 
